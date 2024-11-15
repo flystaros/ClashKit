@@ -1,0 +1,22 @@
+# 忽略编译生成的文件
+*.o
+*.log
+
+# 忽略所有的 `.DS_Store` 文件
+.DS_Store
+
+# 忽略 Node.js 的 `node_modules` 文件夹
+node_modules/
+
+# 忽略 Xcode 的构建文件
+DerivedData/
+build/
+
+# 忽略 Android Studio 的构建文件
+.idea/
+.gradle/
+build/
+
+*.zip
+
+*.xcframework
