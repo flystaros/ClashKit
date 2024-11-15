@@ -1,4 +1,4 @@
-ClashKit for appl
+ClashKit for apple
 
 base on Clash.Meta
 
