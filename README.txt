@@ -1,1 +1,4 @@
-暴露clash内核接口
+ClashKit for appl
+
+base on Clash.Meta
+
